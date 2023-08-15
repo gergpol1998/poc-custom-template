@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "config_datas",
+  "info": {
+    "singularName": "config-data",
+    "pluralName": "config-datas",
+    "displayName": "config_data"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "config_name": {
+      "type": "string"
+    },
+    "config_value": {
+      "type": "text"
+    }
+  }
+}

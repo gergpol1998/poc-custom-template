@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "user_datas",
+  "info": {
+    "singularName": "user-data",
+    "pluralName": "user-datas",
+    "displayName": "User_data"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "age": {
+      "type": "integer"
+    }
+  }
+}
